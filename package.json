@@ -19,6 +19,6 @@
     },
     "homepage": "https://github.com/spybot/react-pure-render-ignore-functions#readme",
     "peerDependencies": {
-        "react-addons-shallow-compare": "^0.14"
+        "react-addons-shallow-compare": "^15.2.1"
     }
 }
