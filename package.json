@@ -1,6 +1,6 @@
 {
     "name": "react-pure-render-ignore-functions",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "PureRenderMixin for react.js that ignores functions when comparing component state and props",
     "main": "index.js",
     "repository": {
@@ -19,6 +19,6 @@
     },
     "homepage": "https://github.com/spybot/react-pure-render-ignore-functions#readme",
     "peerDependencies": {
-        "react-addons-shallow-compare": "^0.14"
+        "react-addons-shallow-compare": "^15.x"
     }
 }
